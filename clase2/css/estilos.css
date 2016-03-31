@@ -1,0 +1,20 @@
+.cara{
+	text-align:center;
+}
+.foto{
+	text-align:center;
+}
+.filtro{
+	-webkit-filter:sepia(1);
+}
+.pregunta1{
+	box-shadow:0 0 0.5em rgba(0,0,0,0.5);
+	display:flex;
+	justify-content:space-around;
+	margin:0 auto;
+	padding:2em;
+	width:80%;
+}
+.pregunta1 img{
+	cursor:pointer;
+}
