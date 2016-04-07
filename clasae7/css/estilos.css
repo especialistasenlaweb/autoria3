@@ -1,0 +1,33 @@
+#mivideo{
+	box-shadow:0 0 0.5em rgba(0,0,0,0.5);
+	margin:0 auto;
+	width:60%;
+}
+.tiempo{
+	color:#999;
+	font-size:400%;
+	margin:0 auto;
+	padding:2em;
+	text-shadow:0.1em 0.1em 0.3em rgba(0,0,0,0.5);
+	width:30%;
+}
+.menu{
+	display:flex;
+	list-style:none;
+	justify-content:space-around;
+	margin:0 auto;
+	width:60%;
+}
+.menu li{
+	box-shadow:0 0 0.5em rgba(0,0,0,0.5);
+	border-radius:2em;
+	cursor:pointer;
+	padding:1em;
+}
+.pregunta{
+	box-shadow:0 0 0.5em rgba(0,0,0,0.5);
+	display:none;
+	margin:2em auto;
+	padding:2em;
+	width:60%;
+}
