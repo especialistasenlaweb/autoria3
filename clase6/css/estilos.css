@@ -1,0 +1,8 @@
+progress{
+	width: 100%;
+	
+}
+
+.mariofiltro{
+	-webkit-filter:invert(1);
+}
